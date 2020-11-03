@@ -11,8 +11,7 @@
 ## How To Host
 Deploy  Superxd tO heroku 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Elon-byte/WolverineUserbot)
-Generate String Session
-Generate string session on Terminal
+
  
 
 ### or Run on your terminal
