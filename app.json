@@ -1,6 +1,6 @@
 {
-  "name": "Telegram WolveRine",
-  "description": "[WolveRine] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
+  "name": "Telegram SuperxD",
+  "description": "[SuperxD] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
   "logo": "https://telegra.ph/file/64e35606cdb735527fd37.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/shadowclub/WolverineUserbot",
+  "repository": "https://github.com/Elon-byte/WolverineUserbot",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
   "success_url": "https://t.me/WolverineChat",
   "stack": "container",
